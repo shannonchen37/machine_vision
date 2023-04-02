@@ -20,3 +20,9 @@ def onclick(event):
 cid = plt.gcf().canvas.mpl_connect('button_press_event', onclick)
 
 plt.show()
+
+
+
+
+
+
